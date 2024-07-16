@@ -56,7 +56,7 @@ const HomeScreen = () => {
         return "bg-rainy";
       }
     }
-    return "bg-sunny"; // Fallback por si no hay datos de temperatura
+    return "bg-sunny";
   };
 
   return (
